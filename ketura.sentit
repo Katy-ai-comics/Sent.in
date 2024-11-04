@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+<style>
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  </style>
+  </head>
+  <body>
+      <img src="Images.webp" alt=""><br><h6>Okay</h6></a></div>
+      <img src="fairview_hotel.jpg" alt=""><br><h6>Sun</h6></a></div>
+      <img src="images (1).jpeg" alt=""><br><h6>View</h6></a></div>
+      <img src="high.high.webp" alt=""><br><h6>photo</h6></a></div>
